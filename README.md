@@ -38,7 +38,8 @@ Ensure you have the `body_language.pkl` model file in the project directory.
 
 ## Usage
 To run the AI Body Language Decoder, execute the following command:
-python run.py
+
+`python run.py`
 
 - The application will activate the webcam.
 - Start performing gestures or poses in front of the camera.
@@ -52,8 +53,3 @@ python run.py
 
 ## Acknowledgements
 This project is powered by [MediaPipe](https://google.github.io/mediapipe/), a robust framework for building multimodal applied machine learning pipelines.
-
-
-
-
-
