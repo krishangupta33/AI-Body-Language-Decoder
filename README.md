@@ -23,9 +23,13 @@ To set up the AI Body Language Decoder, follow these steps:
 1. **Clone the Repository**
 
 2. **Install Dependencies**
+
 `pip install opencv-python`
+
 `pip install mediapipe`
+
 `pip install pandas`
+
 `pip install numpy`
 
 
